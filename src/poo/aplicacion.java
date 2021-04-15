@@ -6,5 +6,7 @@ public class aplicacion {
         System.out.println("holita :3");
         System.out.println("acabarapido");
         System.out.println("acabarapidito");
+        System.out.println("acabarapidito:3");
+        System.out.println("acabarapiditogaaaa");
     }
 }
